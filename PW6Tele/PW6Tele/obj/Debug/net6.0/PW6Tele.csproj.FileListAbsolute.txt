@@ -1,0 +1,15 @@
+D:\Jojo\PW6Tele\PW6Tele\bin\Debug\net6.0\PW6Tele.exe
+D:\Jojo\PW6Tele\PW6Tele\bin\Debug\net6.0\PW6Tele.deps.json
+D:\Jojo\PW6Tele\PW6Tele\bin\Debug\net6.0\PW6Tele.runtimeconfig.json
+D:\Jojo\PW6Tele\PW6Tele\bin\Debug\net6.0\PW6Tele.dll
+D:\Jojo\PW6Tele\PW6Tele\bin\Debug\net6.0\PW6Tele.pdb
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\PW6Tele.csproj.AssemblyReference.cache
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\PW6Tele.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\PW6Tele.AssemblyInfoInputs.cache
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\PW6Tele.AssemblyInfo.cs
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\PW6Tele.csproj.CoreCompileInputs.cache
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\PW6Tele.dll
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\refint\PW6Tele.dll
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\PW6Tele.pdb
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\PW6Tele.genruntimeconfig.cache
+D:\Jojo\PW6Tele\PW6Tele\obj\Debug\net6.0\ref\PW6Tele.dll

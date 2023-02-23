@@ -1,0 +1,15 @@
+D:\Jojo\PW6Free\PW6Free\bin\Debug\net6.0\PW6Free.exe
+D:\Jojo\PW6Free\PW6Free\bin\Debug\net6.0\PW6Free.deps.json
+D:\Jojo\PW6Free\PW6Free\bin\Debug\net6.0\PW6Free.runtimeconfig.json
+D:\Jojo\PW6Free\PW6Free\bin\Debug\net6.0\PW6Free.dll
+D:\Jojo\PW6Free\PW6Free\bin\Debug\net6.0\PW6Free.pdb
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\PW6Free.csproj.AssemblyReference.cache
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\PW6Free.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\PW6Free.AssemblyInfoInputs.cache
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\PW6Free.AssemblyInfo.cs
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\PW6Free.csproj.CoreCompileInputs.cache
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\PW6Free.dll
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\refint\PW6Free.dll
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\PW6Free.pdb
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\PW6Free.genruntimeconfig.cache
+D:\Jojo\PW6Free\PW6Free\obj\Debug\net6.0\ref\PW6Free.dll

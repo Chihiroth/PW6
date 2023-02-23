@@ -1,0 +1,15 @@
+D:\Jojo\PW6Human\PW6Human\bin\Debug\net6.0\PW6Human.exe
+D:\Jojo\PW6Human\PW6Human\bin\Debug\net6.0\PW6Human.deps.json
+D:\Jojo\PW6Human\PW6Human\bin\Debug\net6.0\PW6Human.runtimeconfig.json
+D:\Jojo\PW6Human\PW6Human\bin\Debug\net6.0\PW6Human.dll
+D:\Jojo\PW6Human\PW6Human\bin\Debug\net6.0\PW6Human.pdb
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\PW6Human.csproj.AssemblyReference.cache
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\PW6Human.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\PW6Human.AssemblyInfoInputs.cache
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\PW6Human.AssemblyInfo.cs
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\PW6Human.csproj.CoreCompileInputs.cache
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\PW6Human.dll
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\refint\PW6Human.dll
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\PW6Human.pdb
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\PW6Human.genruntimeconfig.cache
+D:\Jojo\PW6Human\PW6Human\obj\Debug\net6.0\ref\PW6Human.dll
